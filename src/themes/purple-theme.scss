@@ -1,0 +1,5 @@
+$anms-purple-primary: mat-palette($mat-purple);
+$anms-purple-accent: mat-palette($mat-purple, A100);
+$anms-purple-warn: mat-palette($mat-pink, A200);
+
+$anms-purple-theme: mat-dark-theme($anms-purple-primary, $anms-purple-accent, $anms-purple-warn);

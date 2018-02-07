@@ -1,0 +1,5 @@
+$anms-teal-primary: mat-palette($mat-teal);
+$anms-teal-accent: mat-palette($mat-teal, A400);
+$anms-teal-warn: mat-palette($mat-deep-orange, A200);
+
+$anms-teal-theme: mat-dark-theme($anms-teal-primary, $anms-teal-accent, $anms-teal-warn);
